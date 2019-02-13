@@ -1,2 +1,2 @@
 # Algo
-data-struct and Algorithm
+Data-Structure and Algorithm
