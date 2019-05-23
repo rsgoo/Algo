@@ -24,7 +24,6 @@ func main() {
 	PrintN(1000000)      //52
 	PrintM(1000000)		//42
 	finish := time.Now().Unix()
-
 	fmt.Println("递归用时：", finish-begin)
 
 }
