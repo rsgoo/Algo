@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//获取一个切片中最大的数据相加的和
+
 func main() {
 	arr := []int{4, -3, 5, -2, -1, 2, 6, -2}
 	ThisSum := 0
