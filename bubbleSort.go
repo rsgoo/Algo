@@ -43,7 +43,7 @@ package main
 // 13 24 57 69 80
 
 func bubble(arr *[5]int) {
-	//fmt.Println("排序前：", *arr)
+	//fmt.Println("排序前：", *Array)
 	//数组五个元素 两两比较需要4次
 	for i := 0; i < len(arr)-1; i++ {
 		//-i 是因为每一次排序后已经确定了一个最值
@@ -53,7 +53,7 @@ func bubble(arr *[5]int) {
 			}
 		}
 	}
-	//fmt.Println("第一轮比较完后：", *arr)
+	//fmt.Println("第一轮比较完后：", *Array)
 }
 
 func main() {
