@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-//https://mp.weixin.qq.com/s/E-c41h2v_AfffrlAQpkyLg
 func main() {
 	var a = [3][4]int{
 		{0, 1, 2, 3},   /* 第一行索引为 0 */
