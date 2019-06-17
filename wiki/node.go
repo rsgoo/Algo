@@ -11,6 +11,9 @@ func jc(n int) int {
 
 func main() {
 	for i := 1; i < 16; i++ {
-		fmt.Println(i,jc(i))
+		fmt.Println(i, jc(i))
+
+
+
 	}
 }
